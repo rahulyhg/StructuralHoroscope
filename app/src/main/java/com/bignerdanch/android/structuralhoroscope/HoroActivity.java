@@ -67,6 +67,7 @@ public class HoroActivity extends AppCompatActivity {
             System.out.println();
         }
 
+//        add new function
         butAcept.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
